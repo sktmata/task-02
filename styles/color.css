@@ -1,0 +1,179 @@
+a{
+	color: #fff;
+}
+a:hover {
+	color: green;
+}
+.header{
+	background-color: #522a5c;
+}
+.footer{
+	background-color: #000;
+	color: #ccc;
+}
+/*home.html*/
+/*section_img*/
+.section_box {
+	background: linear-gradient( rgba(255,255,255,0.5) , rgba(255,255,255,0.3) , rgba(255,255,255,0));
+	color: #fff;
+}
+/*section_items*/
+.section_items {
+	background-color: #eeeeee;
+}
+.section_items li{
+	background-color: #fff;
+}
+/*section_introduce*/
+.intro_txt h2{
+	color: #000;
+}
+.intro_txt p {
+	color: #000;
+}
+/*article.html*/
+.section_article {
+	background-color: #eeeeee;
+}
+.article_item{
+	background-color: #fff;
+}
+.article_item h2 {
+	color: #a660b7;
+}
+.article_item h3{
+	color: #666;
+}
+.article_pos {
+	color: #999999;
+}
+.extra_up {
+	background-color: #522a5c;
+	color: #fff;
+}
+.extra_down {
+	background-color: #a660b7;
+	color: #fff;
+}
+.article_make li {
+	background-color: #fff;
+}
+.article_make .active{
+	background-color: purple;
+	color: #fff;
+}
+.article_inp {
+	background-color: #fff;
+}
+.article_inp .iconfont{
+	color: #dfdfdf;
+}
+input::placeholder{
+	color: #dfdfdf;
+}
+.article_inp button{
+	background-color: #999;
+	color: #fff;
+}
+.article_tab {
+	background-color: #fff;
+	color: #666666;
+}
+.tab_line {
+	background-color: #dfc6e6;
+}
+.active .tab_line{
+	background-color: #522a5c;
+}
+.article_date{
+	background-color: #fff;
+}
+.article_tags{
+	background-color: #fff;
+}
+.article_date p{
+	color: #773c88;
+}
+.article_date tr{
+	color: #999999;
+}
+.article_date .active{
+	color: red;
+}
+.article_date .current_date{
+	color: #fff;
+	background-color: purple;
+}
+.article_tags h3{
+	color: #666666;
+}
+.article_tags p{
+	color: #773c88;
+}
+/*production.html*/
+.section_production {
+	background-color: #eeeeee;
+}
+.section_production li{
+	background-color: #fff;
+}
+.section_production .active{
+	background-color: lightblue;
+	color: #fff;
+}
+.production_content {
+	background-color: lightblue;
+}
+.content_down {
+	background-color: pink;
+}
+.content_down1 {
+	background-color: purple;
+}
+.circle {
+	color:#fff;
+}
+.production_popular{
+	background-color: #fff;
+}
+.production_popular h3{
+	color: #666666;
+}
+.s-circle{
+	background-color: purple;
+	color: #fff;
+}
+.chart{
+	background-color: purple;
+}
+
+/*about.html*/
+.section_introduce1 {
+	background-color: #eee;
+}
+.introduce_left {
+	background-color: pink;
+}
+.introduce_right {
+	background-color: skyblue;
+}
+.i-2008{
+	background-color: #fff;
+	color: #666666;
+}
+.i-2011{
+	background-color: #fff;
+	color: #666666;
+}
+.i-2016{
+	background-color: #fff;
+	color: #666666;
+}
+.i-2017{
+	background-color: #fff;
+	color: #666666;
+}
+.i-2018{
+	background-color: #fff;
+	color: #666666;
+}
